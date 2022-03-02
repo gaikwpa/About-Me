@@ -6,5 +6,6 @@
 - 💬 Ask me about Data manipulation and Data driven insights
 - 📫 How to reach me: gaikwpa@gmail.com
 - 😄 Pronouns: He/ His/ Him
+- 🚪LinkedIn - https://www.linkedin.com/in/prashant-gaikwad-9516b7b5/
 - ⚡ Fun fact: I am best Icebreaker in terms of initiating commmunication and building strong relations
 
