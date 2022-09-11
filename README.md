@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently pursuing Master's in Business Analytics and Project Management
 - 🌱 I’m currently learning Data Mining using SAS, Data Science using Python, and Data Visualization
-- 👯 I’m looking for Summer 2022 Internship roles in Data Science, Machine Learning, AI, Data Analytics or Business Analytics
+- 👯 Analytics enthusiast with a problem-solving mindset and demonstrated history of working in analytics and digital solutions domain to help data-driven decision making. Proficient in SQL, Python, Power BI, Tableau, MS Excel Formulas and Functions, and machine learning techniques with strong interpersonal and business communication skills.
 - 💬 Ask me about Data insights
 - 📫 How to reach me: prashant.gaikwad@uconn.edu
 - 😄 Pronouns: He/ His/ Him
