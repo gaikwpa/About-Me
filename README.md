@@ -7,7 +7,6 @@
 - 📫 How to reach me: prashant.gaikwad@uconn.edu
 - 😄 Pronouns: He/ His/ Him
 - 🚪LinkedIn - https://www.linkedin.com/in/prashant-gaikwad-9516b7b5/
-- CodeSignal - https://app.codesignal.com/profile/prashant_apg
-- LeetCode - https://leetcode.com/Gaikwpa/
+
 - ⚡ Fun fact: I am best Icebreaker in terms of initiating commmunication and building strong relations
 
